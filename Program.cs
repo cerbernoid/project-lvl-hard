@@ -285,7 +285,7 @@ namespace ONP_lvl_hard
                 resultofONP = resultofONP.Replace("ONP_lvl_hard.Program+Interpreter+Sqrt", "sqrt");
                 resultofONP = resultofONP.Replace("ONP_lvl_hard.Program+Interpreter+Exp", "exp");
 
-                resultofONP = resultofONP.Replace("ONP_lvl_hard.Program+Interpreter+E", "e");
+                resultofONP = resultofONP.Replace(Convert.ToString(Math.E), "e");
                 resultofONP = resultofONP.Replace("3,141592653589793", "pi");
                 resultofONP = resultofONP.Replace("ONP_lvl_hard.Program+Interpreter+variable", "x");
                 Console.WriteLine(resultofONP);
