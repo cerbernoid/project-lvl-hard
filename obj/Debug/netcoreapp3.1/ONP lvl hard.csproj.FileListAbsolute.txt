@@ -1,0 +1,11 @@
+C:\Users\cerbe\source\repos\ONP lvl hard\ONP lvl hard\bin\Debug\netcoreapp3.1\ONP lvl hard.exe
+C:\Users\cerbe\source\repos\ONP lvl hard\ONP lvl hard\bin\Debug\netcoreapp3.1\ONP lvl hard.deps.json
+C:\Users\cerbe\source\repos\ONP lvl hard\ONP lvl hard\bin\Debug\netcoreapp3.1\ONP lvl hard.runtimeconfig.json
+C:\Users\cerbe\source\repos\ONP lvl hard\ONP lvl hard\bin\Debug\netcoreapp3.1\ONP lvl hard.runtimeconfig.dev.json
+C:\Users\cerbe\source\repos\ONP lvl hard\ONP lvl hard\bin\Debug\netcoreapp3.1\ONP lvl hard.dll
+C:\Users\cerbe\source\repos\ONP lvl hard\ONP lvl hard\bin\Debug\netcoreapp3.1\ONP lvl hard.pdb
+C:\Users\cerbe\source\repos\ONP lvl hard\ONP lvl hard\obj\Debug\netcoreapp3.1\ONP lvl hard.csprojAssemblyReference.cache
+C:\Users\cerbe\source\repos\ONP lvl hard\ONP lvl hard\obj\Debug\netcoreapp3.1\ONP lvl hard.AssemblyInfoInputs.cache
+C:\Users\cerbe\source\repos\ONP lvl hard\ONP lvl hard\obj\Debug\netcoreapp3.1\ONP lvl hard.AssemblyInfo.cs
+C:\Users\cerbe\source\repos\ONP lvl hard\ONP lvl hard\obj\Debug\netcoreapp3.1\ONP lvl hard.dll
+C:\Users\cerbe\source\repos\ONP lvl hard\ONP lvl hard\obj\Debug\netcoreapp3.1\ONP lvl hard.pdb
