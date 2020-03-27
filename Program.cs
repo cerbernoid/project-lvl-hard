@@ -129,7 +129,7 @@ namespace ONP_lvl_hard
                 
                 
             }
-            
+            Console.ReadKey();
             void space_counter(string sentence)
             {
                 const char V = ' ';
